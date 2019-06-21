@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seattle AirBnB Data to better understand:
+For this project, I was interested in using Seattle AirBnB Data to better understand:
 
 1. What does the monthly average price of available listings look like in Seattle?
 2. How many listings are available by month in 2016?
